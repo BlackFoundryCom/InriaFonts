@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="1">
+  <advance width="616"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="113" y="652" type="line"/>
+      <point x="167" y="645" type="line" smooth="yes"/>
+      <point x="187" y="642"/>
+      <point x="188" y="641"/>
+      <point x="180" y="596" type="curve" smooth="yes"/>
+      <point x="90" y="84" type="line" smooth="yes"/>
+      <point x="82" y="39"/>
+      <point x="81" y="38"/>
+      <point x="59" y="35" type="curve" smooth="yes"/>
+      <point x="3" y="28" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="305" y="0" type="line" smooth="yes"/>
+      <point x="466" y="0"/>
+      <point x="533" y="72"/>
+      <point x="548" y="158" type="curve" smooth="yes"/>
+      <point x="553" y="187" type="line" smooth="yes"/>
+      <point x="567" y="269"/>
+      <point x="523" y="330"/>
+      <point x="427" y="349" type="curve"/>
+      <point x="515" y="368"/>
+      <point x="564" y="419"/>
+      <point x="576" y="488" type="curve" smooth="yes"/>
+      <point x="581" y="517" type="line" smooth="yes"/>
+      <point x="596" y="605"/>
+      <point x="542" y="680"/>
+      <point x="389" y="680" type="curve" smooth="yes"/>
+      <point x="118" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="645" type="line" smooth="yes"/>
+      <point x="445" y="645"/>
+      <point x="470" y="605"/>
+      <point x="453" y="515" type="curve" smooth="yes"/>
+      <point x="447" y="483" type="line" smooth="yes"/>
+      <point x="432" y="401"/>
+      <point x="395" y="365"/>
+      <point x="338" y="365" type="curve" smooth="yes"/>
+      <point x="259" y="365" type="line"/>
+      <point x="309" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="330" type="line" smooth="yes"/>
+      <point x="417" y="330"/>
+      <point x="443" y="286"/>
+      <point x="426" y="193" type="curve" smooth="yes"/>
+      <point x="420" y="160" type="line" smooth="yes"/>
+      <point x="404" y="72"/>
+      <point x="365" y="35"/>
+      <point x="305" y="35" type="curve" smooth="yes"/>
+      <point x="201" y="35" type="line"/>
+      <point x="253" y="330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

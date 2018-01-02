@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesevenths" format="1">
+  <advance width="630"/>
+  <outline>
+    <component base="three.numerator"/>
+    <component base="fraction" xOffset="293"/>
+    <component base="seven.numerator" xOffset="344" yOffset="-340.0"/>
+  </outline>
+</glyph>

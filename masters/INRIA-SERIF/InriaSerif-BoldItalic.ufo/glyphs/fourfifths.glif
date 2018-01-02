@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourfifths" format="1">
+  <advance width="654.0430723040309"/>
+  <outline>
+    <component base="four.numerator"/>
+    <component base="fraction" xOffset="311"/>
+    <component base="five.numerator" xOffset="313" yOffset="-340"/>
+  </outline>
+</glyph>

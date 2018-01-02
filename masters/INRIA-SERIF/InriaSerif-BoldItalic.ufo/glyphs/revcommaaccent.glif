@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="revcommaaccent" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="416" y="755" type="line"/>
+      <point x="345" y="702"/>
+      <point x="291" y="645"/>
+      <point x="249" y="584" type="curve"/>
+      <point x="366" y="584" type="line"/>
+      <point x="385" y="649"/>
+      <point x="407" y="693"/>
+      <point x="436" y="737" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

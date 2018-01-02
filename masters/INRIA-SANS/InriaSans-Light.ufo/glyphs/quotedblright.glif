@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="330"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="139" y="680" type="line"/>
+      <point x="77" y="680" type="line"/>
+      <point x="77" y="587"/>
+      <point x="66" y="541"/>
+      <point x="34" y="468" type="curve"/>
+      <point x="77" y="448" type="line"/>
+      <point x="116" y="523"/>
+      <point x="139" y="587"/>
+      <point x="139" y="661" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="289" y="680" type="line"/>
+      <point x="227" y="680" type="line"/>
+      <point x="227" y="587"/>
+      <point x="216" y="541"/>
+      <point x="184" y="468" type="curve"/>
+      <point x="227" y="448" type="line"/>
+      <point x="266" y="523"/>
+      <point x="289" y="587"/>
+      <point x="289" y="661" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

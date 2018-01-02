@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.denominator" format="1">
+  <advance width="332"/>
+  <outline>
+    <component base="zero.numerator" yOffset="-340"/>
+  </outline>
+</glyph>

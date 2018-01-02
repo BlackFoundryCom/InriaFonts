@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.posf" format="1">
+  <advance width="575.9843050189586"/>
+  <outline>
+    <component base="six" xOffset="-1"/>
+  </outline>
+</glyph>

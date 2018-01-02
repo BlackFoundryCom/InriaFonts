@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="682"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="423" y="0" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="663" y="680" type="line"/>
+      <point x="543" y="680" type="line"/>
+      <point x="494" y="402" type="line"/>
+      <point x="240" y="402" type="line"/>
+      <point x="289" y="680" type="line"/>
+      <point x="169" y="680" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="220" y="287" type="line"/>
+      <point x="474" y="287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

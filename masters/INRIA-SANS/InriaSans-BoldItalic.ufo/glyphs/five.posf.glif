@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.posf" format="1">
+  <advance width="477.8307254909257"/>
+  <outline>
+    <component base="five" xOffset="-42" yOffset="-173"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

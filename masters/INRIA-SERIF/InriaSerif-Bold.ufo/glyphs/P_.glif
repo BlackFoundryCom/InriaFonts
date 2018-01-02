@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="598"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="43" y="652" type="line"/>
+      <point x="98" y="645" type="line" smooth="yes"/>
+      <point x="119" y="642"/>
+      <point x="120" y="641"/>
+      <point x="120" y="596" type="curve"/>
+      <point x="120" y="84" type="line"/>
+      <point x="120" y="39"/>
+      <point x="119" y="38"/>
+      <point x="98" y="35" type="curve" smooth="yes"/>
+      <point x="43" y="28" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="337" y="28" type="line"/>
+      <point x="262" y="35" type="line" smooth="yes"/>
+      <point x="241" y="37"/>
+      <point x="240" y="39"/>
+      <point x="240" y="84" type="curve"/>
+      <point x="240" y="286" type="line"/>
+      <point x="344" y="286" type="line" smooth="yes"/>
+      <point x="490" y="286"/>
+      <point x="563" y="360"/>
+      <point x="563" y="472" type="curve" smooth="yes"/>
+      <point x="563" y="495" type="line" smooth="yes"/>
+      <point x="563" y="607"/>
+      <point x="490" y="680"/>
+      <point x="344" y="680" type="curve" smooth="yes"/>
+      <point x="43" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="645" type="line" smooth="yes"/>
+      <point x="403" y="645"/>
+      <point x="435" y="596"/>
+      <point x="435" y="515" type="curve" smooth="yes"/>
+      <point x="435" y="452" type="line" smooth="yes"/>
+      <point x="435" y="370"/>
+      <point x="403" y="321"/>
+      <point x="344" y="321" type="curve" smooth="yes"/>
+      <point x="240" y="321" type="line"/>
+      <point x="240" y="645" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="638"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="541" y="210" type="line"/>
+      <point x="547" y="245" type="line"/>
+      <point x="440" y="245" type="line"/>
+      <point x="531" y="435" type="line"/>
+      <point x="650" y="435" type="line"/>
+      <point x="656" y="470" type="line"/>
+      <point x="548" y="470" type="line"/>
+      <point x="647" y="676" type="line"/>
+      <point x="613" y="690" type="line"/>
+      <point x="507" y="470" type="line"/>
+      <point x="286" y="470" type="line"/>
+      <point x="385" y="676" type="line"/>
+      <point x="351" y="690" type="line"/>
+      <point x="245" y="470" type="line"/>
+      <point x="127" y="470" type="line"/>
+      <point x="121" y="435" type="line"/>
+      <point x="228" y="435" type="line"/>
+      <point x="137" y="245" type="line"/>
+      <point x="18" y="245" type="line"/>
+      <point x="12" y="210" type="line"/>
+      <point x="120" y="210" type="line"/>
+      <point x="21" y="4" type="line"/>
+      <point x="55" y="-10" type="line"/>
+      <point x="161" y="210" type="line"/>
+      <point x="382" y="210" type="line"/>
+      <point x="283" y="4" type="line"/>
+      <point x="317" y="-10" type="line"/>
+      <point x="423" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="245" type="line"/>
+      <point x="269" y="435" type="line"/>
+      <point x="490" y="435" type="line"/>
+      <point x="399" y="245" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

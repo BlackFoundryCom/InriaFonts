@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="1">
+  <advance width="658"/>
+  <outline>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="615" y="680" type="line"/>
+      <point x="197" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="30" type="line"/>
+      <point x="257" y="650" type="line"/>
+      <point x="545" y="650" type="line"/>
+      <point x="435" y="30" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

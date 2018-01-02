@@ -1,0 +1,66 @@
+@font-face {
+	font-family:'Inria Serif';
+	src:	url('InriaSerif-Light.eot');
+	src:	url('InriaSerif-Light.eot?#iefix') format('embedded-opentype'),
+			url('InriaSerif-Light.woff2') format('woff2'),
+			url('InriaSerif-Light.woff') format('woff'),
+			url('InriaSerif-Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Inria Serif';
+	src:	url('InriaSerif-LightItalic.eot');
+	src:	url('InriaSerif-LightItalic.eot?#iefix') format('embedded-opentype'),
+			url('InriaSerif-LightItalic.woff2') format('woff2'),
+			url('InriaSerif-LightItalic.woff') format('woff'),
+			url('InriaSerif-LightItalic.svg') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family:'Inria Serif';
+	src:	url('InriaSerif-Italic.eot');
+	src:	url('InriaSerif-Italic.eot?#iefix') format('embedded-opentype'),
+			url('InriaSerif-Italic.woff2') format('woff2'),
+			url('InriaSerif-Italic.woff') format('woff'),
+			url('InriaSerif-Italic.svg') format('svg');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family:'Inria Serif';
+	src:	url('InriaSerif-Regular.eot');
+	src:	url('InriaSerif-Regular.eot?#iefix') format('embedded-opentype'),
+			url('InriaSerif-Regular.woff2') format('woff2'),
+			url('InriaSerif-Regular.woff') format('woff'),
+			url('InriaSerif-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Inria Serif';
+	src:	url('InriaSerif-Bold.eot');
+	src:	url('InriaSerif-Bold.eot?#iefix') format('embedded-opentype'),
+			url('InriaSerif-Bold.woff2') format('woff2'),
+			url('InriaSerif-Bold.woff') format('woff'),
+			url('InriaSerif-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Inria Serif';
+	src:	url('InriaSerif-BoldItalic.eot');
+	src:	url('InriaSerif-BoldItalic.eot?#iefix') format('embedded-opentype'),
+			url('InriaSerif-BoldItalic.woff2') format('woff2'),
+			url('InriaSerif-BoldItalic.woff') format('woff'),
+			url('InriaSerif-BoldItalic.svg') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+

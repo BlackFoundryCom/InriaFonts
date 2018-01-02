@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="500"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="311" y="325" type="line"/>
+      <point x="311" y="444" type="line"/>
+      <point x="190" y="444" type="line"/>
+      <point x="190" y="325" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

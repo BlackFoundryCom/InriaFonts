@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveninferior" format="1">
+  <advance width="286"/>
+  <unicode hex="2087"/>
+  <outline>
+    <component base="seven.numerator" xOffset="-78" yOffset="-445.0"/>
+  </outline>
+</glyph>

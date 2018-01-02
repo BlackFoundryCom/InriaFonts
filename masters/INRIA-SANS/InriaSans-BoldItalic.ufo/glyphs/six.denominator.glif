@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.denominator" format="1">
+  <advance width="303"/>
+  <outline>
+    <component base="six.numerator" xOffset="-59" yOffset="-340.0"/>
+  </outline>
+</glyph>

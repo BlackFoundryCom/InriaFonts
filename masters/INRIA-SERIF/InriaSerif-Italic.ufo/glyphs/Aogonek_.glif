@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="1">
+  <advance width="628"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="548" y="-125" type="curve"/>
+      <point x="498" y="-112" type="line"/>
+      <point x="477" y="-172"/>
+      <point x="447" y="-193"/>
+      <point x="416" y="-193" type="curve" smooth="yes"/>
+      <point x="388" y="-193"/>
+      <point x="374" y="-176"/>
+      <point x="374" y="-141" type="curve" smooth="yes"/>
+      <point x="374" y="-71"/>
+      <point x="429" y="0"/>
+      <point x="523" y="0" type="curve"/>
+      <point x="587" y="0" type="line"/>
+      <point x="591" y="26" type="line"/>
+      <point x="537" y="32" type="line" smooth="yes"/>
+      <point x="518" y="34"/>
+      <point x="517" y="34"/>
+      <point x="510" y="81" type="curve" smooth="yes"/>
+      <point x="421" y="680" type="line"/>
+      <point x="358" y="680" type="line"/>
+      <point x="59" y="81" type="line" smooth="yes"/>
+      <point x="37" y="34"/>
+      <point x="36" y="34"/>
+      <point x="14" y="32" type="curve" smooth="yes"/>
+      <point x="-41" y="26" type="line"/>
+      <point x="-46" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="152" y="26" type="line"/>
+      <point x="98" y="32" type="line" smooth="yes"/>
+      <point x="77" y="34"/>
+      <point x="76" y="35"/>
+      <point x="99" y="81" type="curve" smooth="yes"/>
+      <point x="163" y="209" type="line"/>
+      <point x="406" y="209" type="line"/>
+      <point x="435" y="9" type="line"/>
+      <point x="366" y="-19"/>
+      <point x="310" y="-76"/>
+      <point x="310" y="-138" type="curve" smooth="yes"/>
+      <point x="310" y="-194"/>
+      <point x="354" y="-223"/>
+      <point x="414" y="-223" type="curve" smooth="yes"/>
+      <point x="467" y="-223"/>
+      <point x="515" y="-197"/>
+    </contour>
+    <contour>
+      <point x="179" y="241" type="line"/>
+      <point x="352" y="589" type="line"/>
+      <point x="402" y="241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

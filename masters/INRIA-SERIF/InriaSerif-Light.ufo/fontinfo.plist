@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>740</integer>
+	<key>capHeight</key>
+	<integer>680</integer>
+	<key>copyright</key>
+	<string>Copyright 2017 BlackFoundry</string>
+	<key>descender</key>
+	<integer>-213</integer>
+	<key>familyName</key>
+	<string>Inria Serif</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>note</key>
+	<string>Copyright 2017 BlackFoundry</string>
+	<key>openTypeHeadLowestRecPPEM</key>
+	<integer>9</integer>
+	<key>openTypeHheaAscender</key>
+	<integer>650</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-200</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>150</integer>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Inria Serif Light</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright 2017 BlackFoundry</string>
+	<key>openTypeNameDesigner</key>
+	<string>Black Foundry Team</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.black-foundry.com/company</string>
+	<key>openTypeNameLicense</key>
+	<string>Inria Serif is a trademark of BlackFoundry</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>www.black-foundry.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Black Foundry</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>www.black-foundry.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Inria Serif</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
+	<key>openTypeNameSampleText</key>
+	<string>The quick brown fox jumps over the lazy dog</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.000</string>
+	<key>openTypeNameWWSFamilyName</key>
+	<string></string>
+	<key>openTypeNameWWSSubfamilyName</key>
+	<string></string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>4</integer>
+		<integer>7</integer>
+		<integer>29</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>222</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>65</integer>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>650</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-200</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>150</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>7</integer>
+		<integer>29</integer>
+		<integer>31</integer>
+		<integer>32</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+		<integer>38</integer>
+		<integer>45</integer>
+		<integer>46</integer>
+		<integer>60</integer>
+		<integer>62</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>BLCK</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>300</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>700</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>300</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>487</integer>
+		<integer>497</integer>
+		<integer>680</integer>
+		<integer>690</integer>
+		<integer>740</integer>
+		<integer>750</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>495</integer>
+		<integer>505</integer>
+		<integer>680</integer>
+		<integer>690</integer>
+		<integer>740</integer>
+		<integer>750</integer>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+		<integer>-223</integer>
+		<integer>-213</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>InriaSerif-Light</string>
+	<key>postscriptFullName</key>
+	<string>Inria Serif Light</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-223</integer>
+		<integer>-213</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>30</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>73</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-85</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>65</integer>
+	<key>postscriptWeightName</key>
+	<string>Light</string>
+	<key>styleMapFamilyName</key>
+	<string>Inria Serif Light</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Light</string>
+	<key>trademark</key>
+	<string>Inria Serif is a trademark of BlackFoundry</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>487</integer>
+	<key>year</key>
+	<integer>2017</integer>
+</dict>
+</plist>

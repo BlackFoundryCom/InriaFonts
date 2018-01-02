@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="259"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="214" y="495" type="line"/>
+      <point x="132" y="495" type="line"/>
+      <point x="44" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

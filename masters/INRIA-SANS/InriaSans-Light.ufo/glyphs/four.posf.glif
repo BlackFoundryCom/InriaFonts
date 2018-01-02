@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.posf" format="1">
+  <advance width="462"/>
+  <outline>
+    <contour>
+      <point x="445" y="0" type="line"/>
+      <point x="445" y="56" type="line"/>
+      <point x="368" y="56" type="line"/>
+      <point x="368" y="171" type="line"/>
+      <point x="308" y="171" type="line"/>
+      <point x="308" y="56" type="line"/>
+      <point x="86" y="56" type="line"/>
+      <point x="198" y="214"/>
+      <point x="273" y="342"/>
+      <point x="330" y="487" type="curve"/>
+      <point x="264" y="487" type="line"/>
+      <point x="209" y="340"/>
+      <point x="129" y="208"/>
+      <point x="16" y="46" type="curve"/>
+      <point x="16" y="0" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="308" y="-193" type="line"/>
+      <point x="368" y="-193" type="line"/>
+      <point x="368" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

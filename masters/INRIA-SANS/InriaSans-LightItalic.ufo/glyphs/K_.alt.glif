@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.alt" format="1">
+  <advance width="747.0"/>
+  <outline>
+    <contour>
+      <point x="45" y="422" type="curve"/>
+      <point x="109" y="422" type="line"/>
+      <point x="133" y="553"/>
+      <point x="202" y="621"/>
+      <point x="336" y="621" type="curve" smooth="yes"/>
+      <point x="346" y="621" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="343" y="237" type="line"/>
+      <point x="387" y="272"/>
+      <point x="429" y="306"/>
+      <point x="467" y="340" type="curve"/>
+      <point x="620" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="518" y="378" type="line"/>
+      <point x="623" y="478"/>
+      <point x="705" y="574"/>
+      <point x="781" y="680" type="curve"/>
+      <point x="706" y="680" type="line"/>
+      <point x="620" y="555"/>
+      <point x="505" y="438"/>
+      <point x="357" y="316" type="curve"/>
+      <point x="421" y="680" type="line"/>
+      <point x="347" y="680" type="line" smooth="yes"/>
+      <point x="177" y="680"/>
+      <point x="75" y="597"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

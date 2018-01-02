@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute.alt" format="1">
+  <advance width="1087"/>
+  <outline>
+    <component base="W.alt"/>
+    <component base="acute" xOffset="404" yOffset="185"/>
+  </outline>
+</glyph>

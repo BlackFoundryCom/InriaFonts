@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="521.0"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="379" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="501" y="25" type="line"/>
+      <point x="453" y="30" type="line" smooth="yes"/>
+      <point x="433" y="32"/>
+      <point x="432" y="33"/>
+      <point x="414" y="69" type="curve" smooth="yes"/>
+      <point x="295" y="312" type="line"/>
+      <point x="307" y="323" type="line" smooth="yes"/>
+      <point x="368" y="379"/>
+      <point x="441" y="415"/>
+      <point x="523" y="436" type="curve"/>
+      <point x="508" y="497" type="line"/>
+      <point x="433" y="472"/>
+      <point x="381" y="435"/>
+      <point x="294" y="353" type="curve" smooth="yes"/>
+      <point x="170" y="235" type="line"/>
+      <point x="215" y="487" type="line"/>
+      <point x="78" y="487" type="line"/>
+      <point x="74" y="462" type="line"/>
+      <point x="128" y="457" type="line" smooth="yes"/>
+      <point x="148" y="455"/>
+      <point x="149" y="454"/>
+      <point x="141" y="408" type="curve" smooth="yes"/>
+      <point x="69" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="161" y="188" type="line"/>
+      <point x="251" y="271" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

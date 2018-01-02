@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="695"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="459" y="655" type="line"/>
+      <point x="514" y="650" type="line" smooth="yes"/>
+      <point x="535" y="648"/>
+      <point x="536" y="647"/>
+      <point x="536" y="601" type="curve"/>
+      <point x="536" y="106" type="line"/>
+      <point x="206" y="680" type="line"/>
+      <point x="52" y="680" type="line"/>
+      <point x="52" y="655" type="line"/>
+      <point x="107" y="650" type="line" smooth="yes"/>
+      <point x="128" y="648"/>
+      <point x="129" y="647"/>
+      <point x="129" y="601" type="curve"/>
+      <point x="129" y="79" type="line"/>
+      <point x="129" y="33"/>
+      <point x="128" y="32"/>
+      <point x="107" y="30" type="curve" smooth="yes"/>
+      <point x="52" y="25" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="241" y="25" type="line"/>
+      <point x="186" y="30" type="line" smooth="yes"/>
+      <point x="165" y="32"/>
+      <point x="164" y="33"/>
+      <point x="164" y="79" type="curve"/>
+      <point x="164" y="630" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="571" y="601" type="line"/>
+      <point x="571" y="647"/>
+      <point x="572" y="648"/>
+      <point x="593" y="650" type="curve" smooth="yes"/>
+      <point x="648" y="655" type="line"/>
+      <point x="648" y="680" type="line"/>
+      <point x="459" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

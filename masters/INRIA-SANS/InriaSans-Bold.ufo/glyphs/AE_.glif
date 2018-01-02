@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="843"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="1" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="196" y="133" type="line"/>
+      <point x="401" y="133" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="795" y="0" type="line"/>
+      <point x="795" y="115" type="line"/>
+      <point x="521" y="115" type="line"/>
+      <point x="521" y="287" type="line"/>
+      <point x="755" y="287" type="line"/>
+      <point x="755" y="402" type="line"/>
+      <point x="521" y="402" type="line"/>
+      <point x="521" y="565" type="line"/>
+      <point x="785" y="565" type="line"/>
+      <point x="785" y="680" type="line"/>
+      <point x="338" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="243" type="line"/>
+      <point x="401" y="557" type="line"/>
+      <point x="401" y="243" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

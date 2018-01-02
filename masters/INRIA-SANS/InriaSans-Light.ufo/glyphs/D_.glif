@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="637"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="313" y="0" type="line" smooth="yes"/>
+      <point x="465" y="0"/>
+      <point x="551" y="104"/>
+      <point x="551" y="264" type="curve" smooth="yes"/>
+      <point x="551" y="417" type="line" smooth="yes"/>
+      <point x="551" y="576"/>
+      <point x="465" y="680"/>
+      <point x="313" y="680" type="curve" smooth="yes"/>
+      <point x="115" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="621" type="line" smooth="yes"/>
+      <point x="424" y="621"/>
+      <point x="483" y="545"/>
+      <point x="483" y="417" type="curve" smooth="yes"/>
+      <point x="483" y="264" type="line" smooth="yes"/>
+      <point x="483" y="136"/>
+      <point x="424" y="59"/>
+      <point x="313" y="59" type="curve" smooth="yes"/>
+      <point x="180" y="59" type="line"/>
+      <point x="180" y="621" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

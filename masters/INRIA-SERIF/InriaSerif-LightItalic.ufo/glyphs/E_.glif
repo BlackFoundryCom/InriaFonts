@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="565"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="505" y="157" type="line"/>
+      <point x="481" y="157" type="line"/>
+      <point x="436" y="56" type="line" smooth="yes"/>
+      <point x="426" y="33"/>
+      <point x="424" y="30"/>
+      <point x="377" y="30" type="curve"/>
+      <point x="157" y="30" type="line"/>
+      <point x="209" y="329" type="line"/>
+      <point x="357" y="329" type="line" smooth="yes"/>
+      <point x="404" y="329"/>
+      <point x="405" y="327"/>
+      <point x="406" y="303" type="curve" smooth="yes"/>
+      <point x="411" y="232" type="line"/>
+      <point x="435" y="232" type="line"/>
+      <point x="474" y="456" type="line"/>
+      <point x="450" y="456" type="line"/>
+      <point x="421" y="385" type="line" smooth="yes"/>
+      <point x="411" y="361"/>
+      <point x="409" y="359"/>
+      <point x="362" y="359" type="curve" smooth="yes"/>
+      <point x="214" y="359" type="line"/>
+      <point x="265" y="650" type="line"/>
+      <point x="473" y="650" type="line" smooth="yes"/>
+      <point x="520" y="650"/>
+      <point x="520" y="647"/>
+      <point x="522" y="624" type="curve" smooth="yes"/>
+      <point x="531" y="523" type="line"/>
+      <point x="555" y="523" type="line"/>
+      <point x="583" y="680" type="line"/>
+      <point x="129" y="680" type="line"/>
+      <point x="124" y="655" type="line"/>
+      <point x="179" y="650" type="line" smooth="yes"/>
+      <point x="199" y="648"/>
+      <point x="200" y="648"/>
+      <point x="192" y="601" type="curve" smooth="yes"/>
+      <point x="100" y="79" type="line" smooth="yes"/>
+      <point x="92" y="32"/>
+      <point x="91" y="32"/>
+      <point x="69" y="30" type="curve" smooth="yes"/>
+      <point x="13" y="25" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="477" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

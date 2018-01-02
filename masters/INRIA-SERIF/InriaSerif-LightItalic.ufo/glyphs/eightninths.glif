@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eightninths" format="1">
+  <advance width="700.536822482974"/>
+  <outline>
+    <component base="eight.numerator"/>
+    <component base="fraction" xOffset="320"/>
+    <component base="nine.numerator" xOffset="332" yOffset="-340"/>
+  </outline>
+</glyph>

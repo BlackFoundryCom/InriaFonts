@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.denominator" format="1">
+  <advance width="279"/>
+  <outline>
+    <component base="four.numerator" yOffset="-340"/>
+  </outline>
+</glyph>

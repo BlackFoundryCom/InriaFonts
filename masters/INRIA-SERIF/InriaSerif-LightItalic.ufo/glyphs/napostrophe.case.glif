@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe.case" format="1">
+  <advance width="822.0976531182438"/>
+  <outline>
+    <component base="N" xOffset="127"/>
+    <component base="quoteright" xOffset="-65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

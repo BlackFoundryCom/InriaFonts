@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.posf" format="1">
+  <advance width="530.7046312538441"/>
+  <outline>
+    <component base="eight" xOffset="-22"/>
+  </outline>
+</glyph>

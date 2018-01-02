@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.posf" format="1">
+  <advance width="348"/>
+  <outline>
+    <contour>
+      <point x="46" y="401" type="line"/>
+      <point x="73" y="333" type="line"/>
+      <point x="201" y="400" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="303" y="495" type="line"/>
+      <point x="224" y="495" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

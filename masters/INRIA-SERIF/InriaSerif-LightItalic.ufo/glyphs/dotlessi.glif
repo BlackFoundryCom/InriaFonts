@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="295.3648606011974"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="74" y="462" type="line"/>
+      <point x="128" y="457" type="line" smooth="yes"/>
+      <point x="148" y="455"/>
+      <point x="149" y="454"/>
+      <point x="141" y="408" type="curve" smooth="yes"/>
+      <point x="95" y="142" type="line" smooth="yes"/>
+      <point x="77" y="38"/>
+      <point x="106" y="-5"/>
+      <point x="161" y="-5" type="curve" smooth="yes"/>
+      <point x="200" y="-5"/>
+      <point x="238" y="23"/>
+      <point x="268" y="83" type="curve"/>
+      <point x="235" y="105" type="line"/>
+      <point x="216" y="47"/>
+      <point x="189" y="24"/>
+      <point x="169" y="24" type="curve" smooth="yes"/>
+      <point x="147" y="24"/>
+      <point x="138" y="48"/>
+      <point x="156" y="150" type="curve" smooth="yes"/>
+      <point x="215" y="487" type="line"/>
+      <point x="78" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

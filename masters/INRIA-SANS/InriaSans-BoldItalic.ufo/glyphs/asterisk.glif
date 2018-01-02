@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="412.949992086313"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="374" y="342" type="line"/>
+      <point x="353" y="387" type="line"/>
+      <point x="288" y="470" type="line"/>
+      <point x="393" y="464" type="line"/>
+      <point x="442" y="471" type="line"/>
+      <point x="429" y="565" type="line"/>
+      <point x="379" y="558" type="line"/>
+      <point x="280" y="523" type="line"/>
+      <point x="319" y="620" type="line"/>
+      <point x="327" y="669" type="line"/>
+      <point x="234" y="686" type="line"/>
+      <point x="225" y="636" type="line"/>
+      <point x="229" y="531" type="line"/>
+      <point x="147" y="598" type="line"/>
+      <point x="104" y="621" type="line"/>
+      <point x="59" y="538" type="line"/>
+      <point x="103" y="514" type="line"/>
+      <point x="203" y="484" type="line"/>
+      <point x="115" y="428" type="line"/>
+      <point x="80" y="394" type="line"/>
+      <point x="146" y="325" type="line"/>
+      <point x="181" y="360" type="line"/>
+      <point x="241" y="448" type="line"/>
+      <point x="267" y="346" type="line"/>
+      <point x="289" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

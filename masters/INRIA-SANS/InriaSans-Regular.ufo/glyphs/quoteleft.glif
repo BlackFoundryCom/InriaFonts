@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="1">
+  <advance width="192"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="37" y="430" type="line"/>
+      <point x="119" y="430" type="line"/>
+      <point x="119" y="531"/>
+      <point x="127" y="579"/>
+      <point x="165" y="662" type="curve"/>
+      <point x="111" y="690" type="line"/>
+      <point x="61" y="603"/>
+      <point x="37" y="532"/>
+      <point x="37" y="449" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="867"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="208" y="411" type="line"/>
+      <point x="156" y="680" type="line"/>
+      <point x="26" y="680" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="434" y="506" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="841" y="680" type="line"/>
+      <point x="719" y="680" type="line"/>
+      <point x="667" y="411" type="line"/>
+      <point x="625" y="163" type="line"/>
+      <point x="490" y="680" type="line"/>
+      <point x="382" y="680" type="line"/>
+      <point x="246" y="159" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

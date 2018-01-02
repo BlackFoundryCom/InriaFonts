@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="595"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="440" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="369" y="378" type="line"/>
+      <point x="466" y="472"/>
+      <point x="549" y="570"/>
+      <point x="627" y="680" type="curve"/>
+      <point x="527" y="680" type="line"/>
+      <point x="448" y="564"/>
+      <point x="345" y="453"/>
+      <point x="208" y="334" type="curve"/>
+      <point x="269" y="680" type="line"/>
+      <point x="182" y="680" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="189" y="229" type="line"/>
+      <point x="228" y="262"/>
+      <point x="265" y="293"/>
+      <point x="300" y="325" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

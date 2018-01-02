@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.alt" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="310" y="526" type="line"/>
+      <point x="360" y="603"/>
+      <point x="395" y="665"/>
+      <point x="432" y="740" type="curve"/>
+      <point x="323" y="740" type="line"/>
+      <point x="286" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="280"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="161" y="182" type="line"/>
+      <point x="213" y="430" type="line"/>
+      <point x="257" y="680" type="line"/>
+      <point x="175" y="680" type="line"/>
+      <point x="131" y="430" type="line"/>
+      <point x="95" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="158" y="91" type="line"/>
+      <point x="66" y="91" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+  <advance width="500"/>
+  <unicode hex="F6C3"/>
+  <outline>
+    <contour>
+      <point x="119" y="-238" type="line"/>
+      <point x="170" y="-186"/>
+      <point x="198" y="-147"/>
+      <point x="228" y="-77" type="curve"/>
+      <point x="158" y="-77" type="line"/>
+      <point x="148" y="-137"/>
+      <point x="132" y="-176"/>
+      <point x="102" y="-224" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

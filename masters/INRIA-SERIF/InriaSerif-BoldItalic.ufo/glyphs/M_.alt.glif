@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.alt" format="1">
+  <advance width="1021"/>
+  <outline>
+    <contour>
+      <point x="472" y="680" type="line"/>
+      <point x="313" y="680" type="line" smooth="yes"/>
+      <point x="132" y="680"/>
+      <point x="50" y="572"/>
+      <point x="35" y="427" type="curve"/>
+      <point x="137" y="398" type="line"/>
+      <point x="149" y="557"/>
+      <point x="212" y="645"/>
+      <point x="322" y="645" type="curve" smooth="yes"/>
+      <point x="339" y="645" type="line"/>
+      <point x="240" y="84" type="line" smooth="yes"/>
+      <point x="232" y="39"/>
+      <point x="227" y="38"/>
+      <point x="209" y="35" type="curve" smooth="yes"/>
+      <point x="153" y="28" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="347" y="28" type="line"/>
+      <point x="293" y="35" type="line" smooth="yes"/>
+      <point x="273" y="38"/>
+      <point x="272" y="39"/>
+      <point x="280" y="84" type="curve" smooth="yes"/>
+      <point x="370" y="596" type="line"/>
+      <point x="460" y="80" type="line"/>
+      <point x="567" y="80" type="line"/>
+      <point x="842" y="598" type="line"/>
+      <point x="751" y="84" type="line" smooth="yes"/>
+      <point x="743" y="39"/>
+      <point x="742" y="38"/>
+      <point x="720" y="35" type="curve" smooth="yes"/>
+      <point x="664" y="28" type="line"/>
+      <point x="659" y="0" type="line"/>
+      <point x="933" y="0" type="line"/>
+      <point x="938" y="28" type="line"/>
+      <point x="884" y="35" type="line" smooth="yes"/>
+      <point x="864" y="38"/>
+      <point x="863" y="39"/>
+      <point x="871" y="84" type="curve"/>
+      <point x="961" y="596" type="line" smooth="yes"/>
+      <point x="969" y="641"/>
+      <point x="970" y="642"/>
+      <point x="992" y="645" type="curve" smooth="yes"/>
+      <point x="1048" y="652" type="line"/>
+      <point x="1053" y="680" type="line"/>
+      <point x="841" y="680" type="line"/>
+      <point x="563" y="160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="433"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="358" y="422" type="line"/>
+      <point x="418" y="422" type="line"/>
+      <point x="418" y="531" type="line"/>
+      <point x="358" y="531" type="line"/>
+      <point x="257" y="515" type="line"/>
+      <point x="274" y="620" type="line"/>
+      <point x="274" y="680" type="line"/>
+      <point x="159" y="680" type="line"/>
+      <point x="159" y="620" type="line"/>
+      <point x="175" y="516" type="line"/>
+      <point x="75" y="532" type="line"/>
+      <point x="15" y="532" type="line"/>
+      <point x="15" y="423" type="line"/>
+      <point x="75" y="423" type="line"/>
+      <point x="176" y="439" type="line"/>
+      <point x="158" y="308" type="line"/>
+      <point x="158" y="199" type="line"/>
+      <point x="180" y="-143" type="line"/>
+      <point x="250" y="-143" type="line"/>
+      <point x="273" y="199" type="line"/>
+      <point x="273" y="308" type="line"/>
+      <point x="256" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

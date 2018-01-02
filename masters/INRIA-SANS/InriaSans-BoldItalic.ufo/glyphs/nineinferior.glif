@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nineinferior" format="1">
+  <advance width="303"/>
+  <unicode hex="2089"/>
+  <outline>
+    <component base="nine.numerator" xOffset="-78" yOffset="-445.0"/>
+  </outline>
+</glyph>

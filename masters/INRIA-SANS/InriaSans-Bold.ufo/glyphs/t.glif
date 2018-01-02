@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="397"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="384" y="17" type="curve"/>
+      <point x="355" y="114" type="line"/>
+      <point x="324" y="102"/>
+      <point x="300" y="98"/>
+      <point x="279" y="98" type="curve" smooth="yes"/>
+      <point x="235" y="98"/>
+      <point x="211" y="117"/>
+      <point x="211" y="179" type="curve" smooth="yes"/>
+      <point x="211" y="407" type="line"/>
+      <point x="369" y="407" type="line"/>
+      <point x="369" y="507" type="line"/>
+      <point x="211" y="507" type="line"/>
+      <point x="211" y="639" type="line"/>
+      <point x="96" y="639" type="line"/>
+      <point x="96" y="507" type="line"/>
+      <point x="14" y="507" type="line"/>
+      <point x="14" y="407" type="line"/>
+      <point x="96" y="407" type="line"/>
+      <point x="96" y="179" type="line" smooth="yes"/>
+      <point x="96" y="68"/>
+      <point x="138" y="-10"/>
+      <point x="255" y="-10" type="curve" smooth="yes"/>
+      <point x="302" y="-10"/>
+      <point x="349" y="1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

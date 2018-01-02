@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="383"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="416" y="740" type="line"/>
+      <point x="-80" y="-127" type="line"/>
+      <point x="-47" y="-143" type="line"/>
+      <point x="449" y="724" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

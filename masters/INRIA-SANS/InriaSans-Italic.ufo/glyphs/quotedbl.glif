@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="353"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="155" y="430" type="line"/>
+      <point x="198" y="602" type="line"/>
+      <point x="212" y="680" type="line"/>
+      <point x="132" y="680" type="line"/>
+      <point x="118" y="602" type="line"/>
+      <point x="101" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="430" type="line"/>
+      <point x="359" y="602" type="line"/>
+      <point x="373" y="680" type="line"/>
+      <point x="293" y="680" type="line"/>
+      <point x="279" y="602" type="line"/>
+      <point x="262" y="430" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

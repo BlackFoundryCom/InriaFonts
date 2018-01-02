@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhungarumlaut.alt" format="1">
+  <advance width="849"/>
+  <outline>
+    <component base="U.alt"/>
+    <component base="hungarumlaut" xOffset="276" yOffset="173"/>
+  </outline>
+</glyph>

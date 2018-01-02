@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="1">
+  <advance width="546"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="493" y="78" type="line"/>
+      <point x="465" y="78" type="line"/>
+      <point x="422" y="-13" type="line" smooth="yes"/>
+      <point x="410" y="-37"/>
+      <point x="410" y="-39"/>
+      <point x="363" y="-39" type="curve" smooth="yes"/>
+      <point x="35" y="-39" type="line"/>
+      <point x="375" y="288" type="line"/>
+      <point x="378" y="304" type="line"/>
+      <point x="232" y="645" type="line"/>
+      <point x="472" y="645" type="line" smooth="yes"/>
+      <point x="519" y="645"/>
+      <point x="518" y="643"/>
+      <point x="521" y="619" type="curve" smooth="yes"/>
+      <point x="532" y="528" type="line"/>
+      <point x="560" y="528" type="line"/>
+      <point x="587" y="680" type="line"/>
+      <point x="103" y="680" type="line"/>
+      <point x="98" y="655" type="line"/>
+      <point x="280" y="250" type="line"/>
+      <point x="-30" y="-49" type="line"/>
+      <point x="-46" y="-143" type="line"/>
+      <point x="454" y="-143" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron.alt" format="1">
+  <advance width="811"/>
+  <outline>
+    <component base="D.alt"/>
+    <component base="caron" xOffset="223" yOffset="185"/>
+  </outline>
+</glyph>

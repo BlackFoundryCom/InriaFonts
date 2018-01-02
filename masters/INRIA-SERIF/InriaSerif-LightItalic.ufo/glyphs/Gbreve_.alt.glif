@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve.alt" format="1">
+  <advance width="640"/>
+  <outline>
+    <component base="G.alt"/>
+    <component base="breve" xOffset="109" yOffset="193"/>
+  </outline>
+</glyph>

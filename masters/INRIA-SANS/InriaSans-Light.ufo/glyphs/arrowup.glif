@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowup" format="1">
+  <advance width="651"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="493" y="374" type="line"/>
+      <point x="528" y="401" type="line"/>
+      <point x="341" y="627" type="line"/>
+      <point x="304" y="627" type="line"/>
+      <point x="114" y="401" type="line"/>
+      <point x="149" y="374" type="line"/>
+      <point x="296" y="532" type="line"/>
+      <point x="296" y="86" type="line"/>
+      <point x="349" y="86" type="line"/>
+      <point x="349" y="533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

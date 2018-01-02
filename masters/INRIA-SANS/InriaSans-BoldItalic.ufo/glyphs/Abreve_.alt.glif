@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve.alt" format="1">
+  <advance width="730"/>
+  <outline>
+    <component base="A.alt"/>
+    <component base="breve" xOffset="208" yOffset="173"/>
+  </outline>
+</glyph>

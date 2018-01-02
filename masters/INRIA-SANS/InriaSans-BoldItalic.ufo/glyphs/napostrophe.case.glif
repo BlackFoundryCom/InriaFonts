@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe.case" format="1">
+  <advance width="834"/>
+  <outline>
+    <component base="N" xOffset="151"/>
+    <component base="quoteright" xOffset="-30" yOffset="1"/>
+  </outline>
+</glyph>

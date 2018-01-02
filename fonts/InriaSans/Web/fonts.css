@@ -1,0 +1,66 @@
+@font-face {
+	font-family:'Inria Sans';
+	src:	url('InriaSans-Light.eot');
+	src:	url('InriaSans-Light.eot?#iefix') format('embedded-opentype'),
+			url('InriaSans-Light.woff2') format('woff2'),
+			url('InriaSans-Light.woff') format('woff'),
+			url('InriaSans-Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Inria Sans';
+	src:	url('InriaSans-LightItalic.eot');
+	src:	url('InriaSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+			url('InriaSans-LightItalic.woff2') format('woff2'),
+			url('InriaSans-LightItalic.woff') format('woff'),
+			url('InriaSans-LightItalic.svg') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family:'Inria Sans';
+	src:	url('InriaSans-Italic.eot');
+	src:	url('InriaSans-Italic.eot?#iefix') format('embedded-opentype'),
+			url('InriaSans-Italic.woff2') format('woff2'),
+			url('InriaSans-Italic.woff') format('woff'),
+			url('InriaSans-Italic.svg') format('svg');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family:'Inria Sans';
+	src:	url('InriaSans-Regular.eot');
+	src:	url('InriaSans-Regular.eot?#iefix') format('embedded-opentype'),
+			url('InriaSans-Regular.woff2') format('woff2'),
+			url('InriaSans-Regular.woff') format('woff'),
+			url('InriaSans-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Inria Sans';
+	src:	url('InriaSans-Bold.eot');
+	src:	url('InriaSans-Bold.eot?#iefix') format('embedded-opentype'),
+			url('InriaSans-Bold.woff2') format('woff2'),
+			url('InriaSans-Bold.woff') format('woff'),
+			url('InriaSans-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Inria Sans';
+	src:	url('InriaSans-BoldItalic.eot');
+	src:	url('InriaSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+			url('InriaSans-BoldItalic.woff2') format('woff2'),
+			url('InriaSans-BoldItalic.woff') format('woff'),
+			url('InriaSans-BoldItalic.svg') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="455"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="224" y="-83" type="line"/>
+      <point x="226" y="21" type="line"/>
+      <point x="324" y="5" type="line"/>
+      <point x="384" y="5" type="line"/>
+      <point x="403" y="114" type="line"/>
+      <point x="343" y="114" type="line"/>
+      <point x="240" y="98" type="line"/>
+      <point x="280" y="229" type="line"/>
+      <point x="294" y="308" type="line"/>
+      <point x="301" y="439" type="line"/>
+      <point x="399" y="422" type="line"/>
+      <point x="459" y="422" type="line"/>
+      <point x="479" y="531" type="line"/>
+      <point x="419" y="531" type="line"/>
+      <point x="315" y="515" type="line"/>
+      <point x="350" y="620" type="line"/>
+      <point x="361" y="680" type="line"/>
+      <point x="246" y="680" type="line"/>
+      <point x="235" y="620" type="line"/>
+      <point x="233" y="516" type="line"/>
+      <point x="136" y="532" type="line"/>
+      <point x="76" y="532" type="line"/>
+      <point x="57" y="423" type="line"/>
+      <point x="117" y="423" type="line"/>
+      <point x="220" y="439" type="line"/>
+      <point x="179" y="308" type="line"/>
+      <point x="165" y="229" type="line"/>
+      <point x="159" y="98" type="line"/>
+      <point x="60" y="115" type="line"/>
+      <point x="0" y="115" type="line"/>
+      <point x="-19" y="6" type="line"/>
+      <point x="41" y="6" type="line"/>
+      <point x="145" y="22" type="line"/>
+      <point x="109" y="-83" type="line"/>
+      <point x="99" y="-143" type="line"/>
+      <point x="214" y="-143" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

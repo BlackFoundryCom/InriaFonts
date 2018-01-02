@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.alt" format="1">
+  <advance width="859.0000000002437"/>
+  <outline>
+    <contour>
+      <point x="45" y="422" type="curve"/>
+      <point x="109" y="422" type="line"/>
+      <point x="133" y="553"/>
+      <point x="202" y="621"/>
+      <point x="336" y="621" type="curve" smooth="yes"/>
+      <point x="346" y="621" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="348" y="291" type="line"/>
+      <point x="403" y="603" type="line"/>
+      <point x="488" y="405"/>
+      <point x="556" y="216"/>
+      <point x="623" y="0" type="curve"/>
+      <point x="701" y="0" type="line"/>
+      <point x="821" y="680" type="line"/>
+      <point x="760" y="680" type="line"/>
+      <point x="708" y="388" type="line"/>
+      <point x="661" y="77" type="line"/>
+      <point x="595" y="298"/>
+      <point x="523" y="479"/>
+      <point x="434" y="680" type="curve"/>
+      <point x="347" y="680" type="line" smooth="yes"/>
+      <point x="177" y="680"/>
+      <point x="75" y="597"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>

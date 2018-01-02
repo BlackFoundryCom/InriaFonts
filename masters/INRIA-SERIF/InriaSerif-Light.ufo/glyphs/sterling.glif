@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="522.3033859142934"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="427" y="160" type="line"/>
+      <point x="410" y="79" type="line" smooth="yes"/>
+      <point x="405" y="55"/>
+      <point x="403" y="53"/>
+      <point x="356" y="53" type="curve"/>
+      <point x="114" y="53" type="line"/>
+      <point x="178" y="125"/>
+      <point x="213" y="180"/>
+      <point x="213" y="247" type="curve" smooth="yes"/>
+      <point x="213" y="260"/>
+      <point x="212" y="273"/>
+      <point x="210" y="285" type="curve"/>
+      <point x="383" y="285" type="line"/>
+      <point x="383" y="315" type="line"/>
+      <point x="203" y="315" type="line"/>
+      <point x="185" y="377"/>
+      <point x="149" y="429"/>
+      <point x="149" y="516" type="curve" smooth="yes"/>
+      <point x="149" y="607"/>
+      <point x="191" y="660"/>
+      <point x="266" y="660" type="curve" smooth="yes"/>
+      <point x="366" y="660"/>
+      <point x="401" y="591"/>
+      <point x="388" y="467" type="curve"/>
+      <point x="453" y="483" type="line"/>
+      <point x="472" y="590"/>
+      <point x="409" y="690"/>
+      <point x="265" y="690" type="curve" smooth="yes"/>
+      <point x="128" y="690"/>
+      <point x="74" y="596"/>
+      <point x="74" y="511" type="curve" smooth="yes"/>
+      <point x="74" y="427"/>
+      <point x="122" y="376"/>
+      <point x="150" y="315" type="curve"/>
+      <point x="59" y="315" type="line"/>
+      <point x="59" y="285" type="line"/>
+      <point x="161" y="285" type="line"/>
+      <point x="166" y="269"/>
+      <point x="169" y="252"/>
+      <point x="169" y="233" type="curve" smooth="yes"/>
+      <point x="169" y="179"/>
+      <point x="150" y="138"/>
+      <point x="67" y="46" type="curve"/>
+      <point x="67" y="0" type="line"/>
+      <point x="452" y="0" type="line"/>
+      <point x="452" y="160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+      PHR0UHJvZ3JhbSAvPg==
+      </data>
+    </dict>
+  </lib>
+</glyph>
