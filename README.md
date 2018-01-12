@@ -12,11 +12,21 @@ and drawing for the serif. Both members comes in 3 weights with matching italics
 ## Features
 ```
 Ligatures
-Old Styles Figures
+Old Style Figures
 Lining Tabular Figures
 Superiors and inferiors
 Dynamic fractions
 Stylistic Set 01 : Swashed Capitals
 Stylistic Set 02 : Arrows
 Case sensitive punctuations
+```
+
+## xeLaTex usage
+```
+\usepackage{mathspec}
+\setmainfont{Inria Sans}[Scale=MatchLowercase]
+\setsansfont{Inria Sans}[Scale=MatchLowercase]
+\setmathfont(Digits,Latin,Greek,Symbols)[Scale=MatchLowercase]{Inria Serif}
+\setmathrm[Scale=MatchLowercase]{Inria Sans}
+\usepackage{mathastext}
 ```
