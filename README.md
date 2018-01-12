@@ -12,7 +12,7 @@ and drawing for the serif. Both members comes in 3 weights with matching italics
 ## Features
 ```
 Ligatures
-Old Stles Figures
+Old Styles Figures
 Lining Tabular Figures
 Superiors and inferiors
 Dynamic fractions
