@@ -21,7 +21,7 @@ Stylistic Set 02 : Arrows
 Case sensitive punctuations
 ```
 
-## xeLaTex usage
+## xeLaTeX usage
 ```
 \usepackage{mathspec}
 \setmainfont{Inria Sans}[Scale=MatchLowercase]
