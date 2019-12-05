@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.dot" format="1">
-  <advance width="251.61931007650094"/>
+  <advance width="252"/>
   <outline>
     <component base="i"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

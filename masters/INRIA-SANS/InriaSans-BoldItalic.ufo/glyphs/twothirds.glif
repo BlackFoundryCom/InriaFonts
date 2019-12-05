@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twothirds" format="1">
-  <advance width="715.0195084674299"/>
+  <advance width="715.01951"/>
   <unicode hex="2154"/>
   <outline>
     <component base="two.numerator"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.numerator" format="1">
-  <advance width="230.0976531182438"/>
+  <advance width="230.09765"/>
   <outline>
     <contour>
       <point x="288" y="635" type="curve"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="1">
-  <advance width="661.1182256530317"/>
+  <advance width="661.11823"/>
   <unicode hex="00BD"/>
   <outline>
     <component base="one.numerator"/>

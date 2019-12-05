@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fiveeighths" format="1">
-  <advance width="724.9776851000587"/>
+  <advance width="724.97769"/>
   <unicode hex="215D"/>
   <outline>
     <component base="five.numerator"/>

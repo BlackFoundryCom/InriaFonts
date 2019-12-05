@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessj" format="1">
-  <advance width="250.5240982862132"/>
+  <advance width="250.5241"/>
   <unicode hex="0237"/>
   <outline>
     <contour>
@@ -16,12 +16,4 @@
       <point x="-90" y="-166" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

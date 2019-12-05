@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="1">
-  <advance width="412.949992086313"/>
+  <advance width="412.94999"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
@@ -31,12 +31,4 @@
       <point x="289" y="300" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

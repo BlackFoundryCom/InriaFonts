@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ft" format="1">
-  <advance width="720.0604032122069"/>
+  <advance width="720.0604"/>
   <outline>
     <contour>
       <point x="401" y="169" type="line" smooth="yes"/>

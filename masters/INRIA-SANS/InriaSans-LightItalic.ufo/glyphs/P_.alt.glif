@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P.alt" format="1">
-  <advance width="723.1419015783099"/>
+  <advance width="723.1419"/>
   <outline>
     <contour>
       <point x="45" y="422" type="curve"/>
@@ -37,12 +37,4 @@
       <point x="411" y="621" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

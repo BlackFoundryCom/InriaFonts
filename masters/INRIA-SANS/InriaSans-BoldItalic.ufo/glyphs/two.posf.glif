@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.posf" format="1">
-  <advance width="491.6773767745617"/>
+  <advance width="491.67738"/>
   <outline>
     <contour>
       <point x="406" y="105" type="line"/>
@@ -38,12 +38,4 @@
       <point x="387" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

@@ -6,4 +6,27 @@
     <component base="n" xOffset="79"/>
     <component base="quoteright" xOffset="-41"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>quoteright</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
