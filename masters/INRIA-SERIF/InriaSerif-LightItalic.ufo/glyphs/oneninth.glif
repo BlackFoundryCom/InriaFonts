@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oneninth" format="1">
-  <advance width="627.536822482974"/>
+  <advance width="627.53682"/>
   <outline>
     <component base="one.numerator"/>
     <component base="fraction" xOffset="246"/>

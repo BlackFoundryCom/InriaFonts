@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fft" format="1">
-  <advance width="982.0146479677366"/>
+  <advance width="982.01465"/>
   <outline>
     <contour>
       <point x="433" y="-3" type="curve" smooth="yes"/>
@@ -89,12 +89,4 @@
       <point x="210" y="487" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

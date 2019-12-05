@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="1">
-  <advance width="579.4168958223215"/>
+  <advance width="579.4169"/>
   <unicode hex="00FD"/>
   <outline>
     <component base="y"/>

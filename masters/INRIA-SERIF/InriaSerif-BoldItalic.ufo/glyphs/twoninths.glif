@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twoninths" format="1">
-  <advance width="685.861361448227"/>
+  <advance width="685.86136"/>
   <outline>
     <component base="two.numerator"/>
     <component base="fraction" xOffset="314"/>

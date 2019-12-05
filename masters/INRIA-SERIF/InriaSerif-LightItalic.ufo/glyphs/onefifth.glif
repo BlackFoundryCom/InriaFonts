@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onefifth" format="1">
-  <advance width="601.7579302346796"/>
+  <advance width="601.75793"/>
   <outline>
     <component base="one.numerator"/>
     <component base="fraction" xOffset="246"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourninths" format="1">
-  <advance width="682.861361448227"/>
+  <advance width="682.86136"/>
   <outline>
     <component base="four.numerator"/>
     <component base="fraction" xOffset="311"/>

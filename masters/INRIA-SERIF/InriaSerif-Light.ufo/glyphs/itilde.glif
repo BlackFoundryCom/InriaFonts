@@ -4,6 +4,6 @@
   <unicode hex="0129"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="tilde" xOffset="-106.0"/>
+    <component base="tilde" xOffset="-106"/>
   </outline>
 </glyph>

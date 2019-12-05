@@ -4,6 +4,6 @@
   <unicode hex="012B"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="macron" xOffset="-99.5"/>
+    <component base="macron" xOffset="-99.500"/>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fivesixths" format="1">
-  <advance width="662.3883397018299"/>
+  <advance width="662.38834"/>
   <outline>
     <component base="five.numerator"/>
     <component base="fraction" xOffset="295"/>
