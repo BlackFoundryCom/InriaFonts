@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="1">
-  <advance width="646.9511734408782"/>
+  <advance width="646.95117"/>
   <unicode hex="00BE"/>
   <outline>
     <component base="three.numerator"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="1">
-  <advance width="622.7135962376462"/>
+  <advance width="622.7136"/>
   <unicode hex="00DF"/>
   <outline>
     <contour>
@@ -61,12 +61,4 @@
       <point x="132" y="-213" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

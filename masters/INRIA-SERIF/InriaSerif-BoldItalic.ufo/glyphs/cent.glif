@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
-  <advance width="489.36622358313707"/>
+  <advance width="489.36622"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
       <point x="428" y="98" type="curve"/>
       <point x="375" y="129" type="line"/>
       <point x="348" y="52"/>
-      <point x="292.0" y="25.0"/>
+      <point x="292" y="25"/>
       <point x="248" y="25" type="curve"/>
       <point x="328" y="479" type="line"/>
       <point x="373" y="466"/>

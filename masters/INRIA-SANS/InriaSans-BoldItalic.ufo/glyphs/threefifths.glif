@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threefifths" format="1">
-  <advance width="696.9581405067642"/>
+  <advance width="696.95814"/>
   <outline>
     <component base="three.numerator"/>
     <component base="fraction" xOffset="290"/>

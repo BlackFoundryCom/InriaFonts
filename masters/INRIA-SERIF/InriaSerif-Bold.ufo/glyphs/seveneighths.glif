@@ -5,6 +5,6 @@
   <outline>
     <component base="seven.numerator"/>
     <component base="fraction" xOffset="286"/>
-    <component base="eight.numerator" xOffset="337" yOffset="-340.0"/>
+    <component base="eight.numerator" xOffset="337" yOffset="-340"/>
   </outline>
 </glyph>

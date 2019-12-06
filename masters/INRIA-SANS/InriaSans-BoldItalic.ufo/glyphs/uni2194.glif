@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2194" format="1">
-  <advance width="792.6357693854981"/>
+  <advance width="792.63577"/>
   <unicode hex="2194"/>
   <outline>
     <contour>
@@ -22,12 +22,4 @@
       <point x="305" y="126" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

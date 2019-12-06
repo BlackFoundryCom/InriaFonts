@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threeeighths" format="1">
-  <advance width="686.6652965053622"/>
+  <advance width="686.6653"/>
   <unicode hex="215C"/>
   <outline>
     <component base="three.numerator" xOffset="10"/>

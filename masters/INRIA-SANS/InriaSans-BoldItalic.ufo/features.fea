@@ -1,3 +1,48 @@
+@FRACTIONS = [ onehalf onethird onequarter onefifth onesixth oneseventh oneeighth oneninth twothirds twofifths twosevenths twoninths threequarters threefifths threesevenths threeeighths fourfifths foursevenths fourninths fivesixths fivesevenths fiveeighths fiveninths sixsevenths seveneighths sevenninths eightninths ];
+
+@ONE = [ one one.tlf one.posf onesuperior oneinferior one.numerator one.denominator ];
+
+@TWO = [ two two.tlf two.posf twosuperior twoinferior two.numerator two.denominator ];
+
+@THREE = [ three three.tlf three.posf threesuperior threeinferior three.numerator three.denominator ];
+
+@FOUR = [ four four.tlf four.posf foursuperior fourinferior four.numerator four.denominator ];
+
+@FIVE = [ five five.tlf five.posf fivesuperior fiveinferior five.numerator five.denominator ];
+
+@SIX = [ six six.tlf six.posf sixsuperior sixinferior six.numerator six.denominator ];
+
+@SEVEN = [ seven seven.tlf seven.posf sevensuperior seveninferior seven.numerator seven.denominator ];
+
+@EIGHT = [ eight eight.tlf eight.posf eightsuperior eightinferior eight.numerator eight.denominator ];
+
+@NINE = [ nine nine.tlf nine.posf ninesuperior nineinferior nine.numerator nine.denominator ];
+
+@FIG_DFLT = [ zero one two three four five six seven eight nine ];
+
+@FIG_TLF = [ zero.tlf one.tlf two.tlf three.tlf four.tlf five.tlf six.tlf seven.tlf eight.tlf nine.tlf ];
+
+@FIG_POSF = [ zero.posf one.posf two.posf three.posf four.posf five.posf six.posf seven.posf eight.posf nine.posf ];
+
+@FIG_SUP = [ zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior ];
+
+@FIG_INF = [ zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior ];
+
+@FIG_DNOM = [ zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator ];
+
+@FIG_NUM = [ zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator ];
+
+@CASE_1 = [ questiondown exclamdown parenleft parenright braceleft braceright bracketleft bracketright hyphen endash emdash brokenbar bar guillemotleft guillemotright guilsinglleft guilsinglright at ];
+
+@CASE_2 = [ questiondown.case exclamdown.case parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen.case endash.case emdash.case brokenbar.case bar.case guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case at.case ];
+
+@INITIALS_OFF = [ A B D E F G H J K L M N P R T U V W X Y Aacute Acircumflex Adieresis Agrave Aring Atilde Abreve Amacron Aogonek Dcaron Eacute Ecircumflex Edieresis Egrave Ebreve Ecaron Edotaccent Emacron Eogonek Gbreve Gcircumflex Gdotaccent Hcircumflex Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Ntilde Nacute Ncaron Ncommaaccent Eng Racute Rcaron Rcommaaccent Tbar Tcaron uni0162 uni021A Uacute Ucircumflex Udieresis Ugrave Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ydieresis Ycircumflex Ygrave ];
+
+@INITIALS_ON = [ A.alt B.alt D.alt E.alt F.alt G.alt H.alt J.alt K.alt L.alt M.alt N.alt P.alt R.alt T.alt U.alt V.alt W.alt X.alt Y.alt Aacute.alt Acircumflex.alt Adieresis.alt Agrave.alt Aring.alt Atilde.alt Abreve.alt Amacron.alt Aogonek.alt Dcaron.alt Eacute.alt Ecircumflex.alt Edieresis.alt Egrave.alt Ebreve.alt Ecaron.alt Edotaccent.alt Emacron.alt Eogonek.alt Gbreve.alt Gcircumflex.alt Gdotaccent.alt Hcircumflex.alt Jcircumflex.alt Kcommaaccent.alt Lacute.alt Lcaron.alt Lcommaaccent.alt Ntilde.alt Nacute.alt Ncaron.alt Ncommaaccent.alt Eng.alt Racute.alt Rcaron.alt Rcommaaccent.alt Tbar.alt Tcaron.alt uni0162.alt uni021A.alt Uacute.alt Ucircumflex.alt Udieresis.alt Ugrave.alt Ubreve.alt Uhungarumlaut.alt Umacron.alt Uogonek.alt Uring.alt Utilde.alt Wacute.alt Wcircumflex.alt Wdieresis.alt Wgrave.alt Yacute.alt Ydieresis.alt Ycircumflex.alt Ygrave.alt ];
+
+@ALL = [ .notdef A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE OE Lslash Oslash Eth Thorn uni1E9E a b c d e f g h i j k l m n o p q r s t u v w x y z ae oe lslash oslash eth thorn germandbls dotlessi dotlessj fi ffi fl ffl ft fft fb ffb ff fff fh ffh fj ffj fk ffk Aacute Acircumflex Adieresis Agrave Aring Atilde Abreve Amacron Aogonek Ccedilla Cacute Ccaron Ccircumflex Cdotaccent Dcaron Dcroat Eacute Ecircumflex Edieresis Egrave Ebreve Ecaron Edotaccent Emacron Eogonek Gbreve Gcircumflex Gcommaaccent Gdotaccent Hbar Hcircumflex Iacute Icircumflex Idieresis Igrave Ibreve Idotaccent Imacron Iogonek Itilde Jcircumflex IJ Kcommaaccent kgreenlandic.case Lacute Lcaron Lcommaaccent Ldot Ntilde Nacute Ncaron Ncommaaccent Eng napostrophe.case Oacute Ocircumflex Odieresis Ograve Otilde Obreve Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Scaron Sacute Scedilla Scircumflex uni0218 Tbar Tcaron uni0162 uni021A Uacute Ucircumflex Udieresis Ugrave Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ydieresis Ycircumflex Ygrave Zcaron Zacute Zdotaccent aacute acircumflex adieresis agrave aring atilde abreve amacron aogonek ccedilla cacute ccaron ccircumflex cdotaccent dcaron dcroat eacute ecircumflex edieresis egrave ebreve ecaron edotaccent emacron eogonek gbreve gcircumflex gcommaaccent gdotaccent hbar hcircumflex iacute icircumflex idieresis igrave ibreve i.dot imacron iogonek itilde jcircumflex ij kcommaaccent kgreenlandic lacute lcaron lcommaaccent ldot ntilde nacute ncaron ncommaaccent eng napostrophe oacute ocircumflex odieresis ograve otilde obreve ohungarumlaut omacron racute rcaron rcommaaccent scaron sacute scedilla scircumflex uni0219 tbar tcaron uni0163 uni021B uacute ucircumflex udieresis ugrave ubreve uhungarumlaut umacron uogonek uring utilde wacute wcircumflex wdieresis wgrave yacute ydieresis ycircumflex ygrave zcaron zacute zdotaccent acute grave circumflex caron tilde dieresis ring cedilla hungarumlaut breve macron dotaccent periodcentered ogonek commaaccent caron.alt revcommaaccent period comma colon semicolon ellipsis question exclam questiondown exclamdown parenleft parenright braceleft braceright bracketleft bracketright slash backslash underscore hyphen endash emdash brokenbar bar guillemotleft guillemotright guilsinglleft guilsinglright quotesinglbase quotedblbase quoteleft quotedblleft quoteright quotedblright quotesingle quotedbl bullet ampersand paragraph dagger daggerdbl section asterisk trademark registered copyright at ordfeminine ordmasculine numbersign uni2116 Euro dollar yen sterling cent florin uni20B9 currency zero one two three four five six seven eight nine zero.tlf one.tlf two.tlf three.tlf four.tlf five.tlf six.tlf seven.tlf eight.tlf nine.tlf zero.posf one.posf two.posf three.posf four.posf five.posf six.posf seven.posf eight.posf nine.posf degree percent perthousand fraction uni2215 zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator onehalf onethird onequarter onefifth onesixth oneseventh oneeighth oneninth twothirds twofifths twosevenths twoninths threequarters threefifths threesevenths threeeighths fourfifths foursevenths fourninths fivesixths fivesevenths fiveeighths fiveninths sixsevenths seveneighths sevenninths eightninths plus minus multiply divide equal logicalnot asciitilde less greater plusminus asciicircum notequal approxequal lessequal greaterequal infinity lozenge radical integral partialdiff product pi mu summation Omega Delta uni2113 arrowleft arrowup arrowright arrowdown uni2194 uni2195 uni2196 uni2197 uni2198 uni2199 estimated at.case questiondown.case exclamdown.case parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen.case endash.case emdash.case brokenbar.case bar.case guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case A.alt B.alt D.alt E.alt F.alt G.alt H.alt J.alt K.alt L.alt M.alt N.alt P.alt R.alt T.alt U.alt V.alt W.alt X.alt Y.alt Aacute.alt Acircumflex.alt Adieresis.alt Agrave.alt Aring.alt Atilde.alt Abreve.alt Amacron.alt Aogonek.alt Dcaron.alt Eacute.alt Ecircumflex.alt Edieresis.alt Egrave.alt Ebreve.alt Ecaron.alt Edotaccent.alt Emacron.alt Eogonek.alt Gbreve.alt Gcircumflex.alt Gdotaccent.alt Hcircumflex.alt Jcircumflex.alt Kcommaaccent.alt Lacute.alt Lcaron.alt Lcommaaccent.alt Ntilde.alt Nacute.alt Ncaron.alt Ncommaaccent.alt Eng.alt Racute.alt Rcaron.alt Rcommaaccent.alt Tbar.alt Tcaron.alt uni0162.alt uni021A.alt Uacute.alt Ucircumflex.alt Udieresis.alt Ugrave.alt Ubreve.alt Uhungarumlaut.alt Umacron.alt Uogonek.alt Uring.alt Utilde.alt Wacute.alt Wcircumflex.alt Wdieresis.alt Wgrave.alt Yacute.alt Ydieresis.alt Ycircumflex.alt Ygrave.alt ];
+
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn AZE ;
@@ -7,35 +52,9 @@ languagesystem latn ROM ;
 languagesystem latn CRT ;
 languagesystem latn DEU ;
 
-
-
-
-@FRACTIONS = [onehalf onethird onequarter onefifth onesixth oneseventh oneeighth oneninth twothirds twofifths twosevenths twoninths threequarters threefifths threesevenths threeeighths fourfifths foursevenths fourninths fivesixths fivesevenths fiveeighths fiveninths sixsevenths seveneighths sevenninths eightninths];
-@ONE = [one one.tlf one.posf onesuperior oneinferior one.numerator one.denominator];
-@TWO = [two two.tlf two.posf twosuperior twoinferior two.numerator two.denominator];
-@THREE = [three three.tlf three.posf threesuperior threeinferior three.numerator three.denominator];
-@FOUR = [four four.tlf four.posf foursuperior fourinferior four.numerator four.denominator];
-@FIVE = [five five.tlf five.posf fivesuperior fiveinferior five.numerator five.denominator];
-@SIX = [six six.tlf six.posf sixsuperior sixinferior six.numerator six.denominator];
-@SEVEN = [seven seven.tlf seven.posf sevensuperior seveninferior seven.numerator seven.denominator];
-@EIGHT = [eight eight.tlf eight.posf eightsuperior eightinferior eight.numerator eight.denominator];
-@NINE = [nine nine.tlf nine.posf ninesuperior nineinferior nine.numerator nine.denominator];
-@FIG_DFLT = [zero one two three four five six seven eight nine];
-@FIG_TLF = [zero.tlf one.tlf two.tlf three.tlf four.tlf five.tlf six.tlf seven.tlf eight.tlf nine.tlf];
-@FIG_POSF = [zero.posf one.posf two.posf three.posf four.posf five.posf six.posf seven.posf eight.posf nine.posf];
-@FIG_SUP = [zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior];
-@FIG_INF = [zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior];
-@FIG_DNOM = [zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator];
-@FIG_NUM = [zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator];
-@CASE_1 = [questiondown exclamdown parenleft parenright braceleft braceright bracketleft bracketright hyphen endash emdash brokenbar bar guillemotleft guillemotright guilsinglleft guilsinglright at];
-@CASE_2 = [questiondown.case exclamdown.case parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen.case endash.case emdash.case brokenbar.case bar.case guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case at.case];
-@INITIALS_OFF = [A B D E F G H J K L M N P R T U V W X Y Aacute Acircumflex Adieresis Agrave Aring Atilde Abreve Amacron Aogonek Dcaron Eacute Ecircumflex Edieresis Egrave Ebreve Ecaron Edotaccent Emacron Eogonek Gbreve Gcircumflex Gdotaccent Hcircumflex Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Ntilde Nacute Ncaron Ncommaaccent Eng Racute Rcaron Rcommaaccent Tbar Tcaron uni0162 uni021A Uacute Ucircumflex Udieresis Ugrave Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ydieresis Ycircumflex Ygrave];
-@INITIALS_ON = [A.alt B.alt D.alt E.alt F.alt G.alt H.alt J.alt K.alt L.alt M.alt N.alt P.alt R.alt T.alt U.alt V.alt W.alt X.alt Y.alt Aacute.alt Acircumflex.alt Adieresis.alt Agrave.alt Aring.alt Atilde.alt Abreve.alt Amacron.alt Aogonek.alt Dcaron.alt Eacute.alt Ecircumflex.alt Edieresis.alt Egrave.alt Ebreve.alt Ecaron.alt Edotaccent.alt Emacron.alt Eogonek.alt Gbreve.alt Gcircumflex.alt Gdotaccent.alt Hcircumflex.alt Jcircumflex.alt Kcommaaccent.alt Lacute.alt Lcaron.alt Lcommaaccent.alt Ntilde.alt Nacute.alt Ncaron.alt Ncommaaccent.alt Eng.alt Racute.alt Rcaron.alt Rcommaaccent.alt Tbar.alt Tcaron.alt uni0162.alt uni021A.alt Uacute.alt Ucircumflex.alt Udieresis.alt Ugrave.alt Ubreve.alt Uhungarumlaut.alt Umacron.alt Uogonek.alt Uring.alt Utilde.alt Wacute.alt Wcircumflex.alt Wdieresis.alt Wgrave.alt Yacute.alt Ydieresis.alt Ycircumflex.alt Ygrave.alt];
-@ALL = [.notdef A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE OE Lslash Oslash Eth Thorn uni1E9E a b c d e f g h i j k l m n o p q r s t u v w x y z ae oe lslash oslash eth thorn germandbls dotlessi dotlessj fi ffi fl ffl ft fft fb ffb ff fff fh ffh fj ffj fk ffk Aacute Acircumflex Adieresis Agrave Aring Atilde Abreve Amacron Aogonek Ccedilla Cacute Ccaron Ccircumflex Cdotaccent Dcaron Dcroat Eacute Ecircumflex Edieresis Egrave Ebreve Ecaron Edotaccent Emacron Eogonek Gbreve Gcircumflex Gcommaaccent Gdotaccent Hbar Hcircumflex Iacute Icircumflex Idieresis Igrave Ibreve Idotaccent Imacron Iogonek Itilde Jcircumflex IJ Kcommaaccent kgreenlandic.case Lacute Lcaron Lcommaaccent Ldot Ntilde Nacute Ncaron Ncommaaccent Eng napostrophe.case Oacute Ocircumflex Odieresis Ograve Otilde Obreve Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Scaron Sacute Scedilla Scircumflex uni0218 Tbar Tcaron uni0162 uni021A Uacute Ucircumflex Udieresis Ugrave Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ydieresis Ycircumflex Ygrave Zcaron Zacute Zdotaccent aacute acircumflex adieresis agrave aring atilde abreve amacron aogonek ccedilla cacute ccaron ccircumflex cdotaccent dcaron dcroat eacute ecircumflex edieresis egrave ebreve ecaron edotaccent emacron eogonek gbreve gcircumflex gcommaaccent gdotaccent hbar hcircumflex iacute icircumflex idieresis igrave ibreve i.dot imacron iogonek itilde jcircumflex ij kcommaaccent kgreenlandic lacute lcaron lcommaaccent ldot ntilde nacute ncaron ncommaaccent eng napostrophe oacute ocircumflex odieresis ograve otilde obreve ohungarumlaut omacron racute rcaron rcommaaccent scaron sacute scedilla scircumflex uni0219 tbar tcaron uni0163 uni021B uacute ucircumflex udieresis ugrave ubreve uhungarumlaut umacron uogonek uring utilde wacute wcircumflex wdieresis wgrave yacute ydieresis ycircumflex ygrave zcaron zacute zdotaccent acute grave circumflex caron tilde dieresis ring cedilla hungarumlaut breve macron dotaccent periodcentered ogonek commaaccent caron.alt revcommaaccent period comma colon semicolon ellipsis question exclam questiondown exclamdown parenleft parenright braceleft braceright bracketleft bracketright slash backslash underscore hyphen endash emdash brokenbar bar guillemotleft guillemotright guilsinglleft guilsinglright quotesinglbase quotedblbase quoteleft quotedblleft quoteright quotedblright quotesingle quotedbl bullet ampersand paragraph dagger daggerdbl section asterisk trademark registered copyright at ordfeminine ordmasculine numbersign uni2116 Euro dollar yen sterling cent florin uni20B9 currency zero one two three four five six seven eight nine zero.tlf one.tlf two.tlf three.tlf four.tlf five.tlf six.tlf seven.tlf eight.tlf nine.tlf zero.posf one.posf two.posf three.posf four.posf five.posf six.posf seven.posf eight.posf nine.posf degree percent perthousand fraction uni2215 zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator onehalf onethird onequarter onefifth onesixth oneseventh oneeighth oneninth twothirds twofifths twosevenths twoninths threequarters threefifths threesevenths threeeighths fourfifths foursevenths fourninths fivesixths fivesevenths fiveeighths fiveninths sixsevenths seveneighths sevenninths eightninths plus minus multiply divide equal logicalnot asciitilde less greater plusminus asciicircum notequal approxequal lessequal greaterequal infinity lozenge radical integral partialdiff product pi mu summation Omega Delta uni2113 arrowleft arrowup arrowright arrowdown uni2194 uni2195 uni2196 uni2197 uni2198 uni2199 estimated at.case questiondown.case exclamdown.case parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen.case endash.case emdash.case brokenbar.case bar.case guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case A.alt B.alt D.alt E.alt F.alt G.alt H.alt J.alt K.alt L.alt M.alt N.alt P.alt R.alt T.alt U.alt V.alt W.alt X.alt Y.alt Aacute.alt Acircumflex.alt Adieresis.alt Agrave.alt Aring.alt Atilde.alt Abreve.alt Amacron.alt Aogonek.alt Dcaron.alt Eacute.alt Ecircumflex.alt Edieresis.alt Egrave.alt Ebreve.alt Ecaron.alt Edotaccent.alt Emacron.alt Eogonek.alt Gbreve.alt Gcircumflex.alt Gdotaccent.alt Hcircumflex.alt Jcircumflex.alt Kcommaaccent.alt Lacute.alt Lcaron.alt Lcommaaccent.alt Ntilde.alt Nacute.alt Ncaron.alt Ncommaaccent.alt Eng.alt Racute.alt Rcaron.alt Rcommaaccent.alt Tbar.alt Tcaron.alt uni0162.alt uni021A.alt Uacute.alt Ucircumflex.alt Udieresis.alt Ugrave.alt Ubreve.alt Uhungarumlaut.alt Umacron.alt Uogonek.alt Uring.alt Utilde.alt Wacute.alt Wcircumflex.alt Wdieresis.alt Wgrave.alt Yacute.alt Ydieresis.alt Ycircumflex.alt Ygrave.alt];
-
-
 feature case {
-sub @CASE_1 by @CASE_2;} case;
+sub @CASE_1 by @CASE_2;
+} case;
 
 feature liga {
 sub f f i by ffi;
@@ -59,7 +78,8 @@ sub f k by fk;
 feature lnum {
 # Lining Figures
 sub @FIG_POSF by @FIG_DFLT;
-sub @FIG_TLF by @FIG_DFLT;} lnum;
+sub @FIG_TLF by @FIG_DFLT;
+} lnum;
 
 feature ordn {
 # Ordinals
@@ -69,7 +89,8 @@ lookup ordn1 {
 	sub @FIG_DFLT [O o]' by [ordmasculine ordmasculine];
 	sub @FIG_DFLT period [A a]' by [ordfeminine ordfeminine];
 	sub @FIG_DFLT period [O o]' by [ordmasculine ordmasculine];
-} ordn1;} ordn;
+} ordn1;
+} ordn;
 
 feature locl {
 # Localized Forms
@@ -90,7 +111,8 @@ language ROM  exclude_dflt; # Romanian
 	lookup locl_MOL;
 language CRT  exclude_dflt; # Crimean Tatar
 	sub i by i.dot;
-language DEU ;} locl;
+language DEU ;
+} locl;
 
 feature frac {
 # Latin
@@ -137,51 +159,59 @@ feature frac {
 	sub @FIG_POSF by @FIG_NUM;
 	sub @FIG_DNOM by @FIG_NUM;
 
-	sub [@FRACTIONS fraction @FIG_DNOM] @FIG_NUM' by @FIG_DNOM;} frac;
+	sub [@FRACTIONS fraction @FIG_DNOM] @FIG_NUM' by @FIG_DNOM;
+} frac;
 
 feature pnum {
 # Proportional Figures
-sub @FIG_TLF by @FIG_DFLT;} pnum;
+sub @FIG_TLF by @FIG_DFLT;
+} pnum;
 
 feature tnum {
 # Tabular Figures
 sub @FIG_DFLT by @FIG_TLF;
-sub @FIG_POSF by @FIG_TLF;} tnum;
+sub @FIG_POSF by @FIG_TLF;
+} tnum;
 
 feature onum {
 # Old Style Figures
 sub @FIG_DFLT by @FIG_POSF;
-sub @FIG_TLF by @FIG_POSF;} onum;
+sub @FIG_TLF by @FIG_POSF;
+} onum;
 
 feature subs {
 sub @FIG_DFLT by @FIG_INF;
 sub @FIG_TLF by @FIG_INF;
-sub @FIG_POSF by @FIG_INF;} subs;
+sub @FIG_POSF by @FIG_INF;
+} subs;
 
 feature sinf {
 sub @FIG_DFLT by @FIG_INF;
 sub @FIG_TLF by @FIG_INF;
-sub @FIG_POSF by @FIG_INF;} sinf;
+sub @FIG_POSF by @FIG_INF;
+} sinf;
 
 feature sups {
 sub @FIG_DFLT by @FIG_SUP;
 sub @FIG_TLF by @FIG_SUP;
-sub @FIG_POSF by @FIG_SUP;} sups;
+sub @FIG_POSF by @FIG_SUP;
+} sups;
 
 feature dnom {
 sub @FIG_DFLT by @FIG_DNOM;
 sub @FIG_TLF by @FIG_DNOM;
-sub @FIG_POSF by @FIG_DNOM;} dnom;
+sub @FIG_POSF by @FIG_DNOM;
+} dnom;
 
 feature numr {
 sub @FIG_DFLT by @FIG_NUM;
 sub @FIG_TLF by @FIG_NUM;
-sub @FIG_POSF by @FIG_NUM;} numr;
+sub @FIG_POSF by @FIG_NUM;
+} numr;
 
 feature ss01 {
 ignore sub @ALL @INITIALS_OFF';
 sub @INITIALS_OFF' by @INITIALS_ON;
-
 } ss01;
 
 feature ss02 {
@@ -199,9 +229,8 @@ sub less hyphen by arrowleft;
 sub backslash greater by uni2198;
 sub less slash by uni2199;
 sub slash greater by uni2197;
-sub less backslash by uni2196;} ss02;
-
-
+sub less backslash by uni2196;
+} ss02;
 
 feature kern {
 # Class Kerning Data Generated by Black Kerner
@@ -1600,3 +1629,4 @@ feature kern {
     lookup kern_Common;
     lookup kern_Unknown;
 } kern;
+

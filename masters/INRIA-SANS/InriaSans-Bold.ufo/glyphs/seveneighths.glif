@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seveneighths" format="1">
-  <advance width="652.0"/>
+  <advance width="652"/>
   <unicode hex="215E"/>
   <outline>
     <component base="seven.numerator"/>

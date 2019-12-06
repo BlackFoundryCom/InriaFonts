@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eightninths" format="1">
-  <advance width="697.861361448227"/>
+  <advance width="697.86136"/>
   <outline>
     <component base="eight.numerator"/>
     <component base="fraction" xOffset="326"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="integral" format="1">
-  <advance width="355.28130408282055"/>
+  <advance width="355.2813"/>
   <unicode hex="222B"/>
   <outline>
     <contour>
@@ -34,12 +34,4 @@
       <point x="203" y="560" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

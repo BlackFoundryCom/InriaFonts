@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright.case" format="1">
-  <advance width="368.75657580991185"/>
+  <advance width="368.75658"/>
   <outline>
     <component base="guilsinglright" xOffset="16" yOffset="90"/>
   </outline>

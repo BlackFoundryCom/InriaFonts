@@ -2,6 +2,6 @@
 <glyph name="zero.denominator" format="1">
   <advance width="337"/>
   <outline>
-    <component base="zero.numerator" xOffset="-59" yOffset="-340.0"/>
+    <component base="zero.numerator" xOffset="-59" yOffset="-340"/>
   </outline>
 </glyph>

@@ -3,6 +3,6 @@
   <advance width="305"/>
   <unicode hex="2088"/>
   <outline>
-    <component base="eight.numerator" xOffset="-78" yOffset="-445.0"/>
+    <component base="eight.numerator" xOffset="-78" yOffset="-445"/>
   </outline>
 </glyph>

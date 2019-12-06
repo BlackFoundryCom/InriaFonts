@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="1">
-  <advance width="550.1214364111092"/>
+  <advance width="550.12144"/>
   <unicode hex="0121"/>
   <outline>
     <component base="g"/>

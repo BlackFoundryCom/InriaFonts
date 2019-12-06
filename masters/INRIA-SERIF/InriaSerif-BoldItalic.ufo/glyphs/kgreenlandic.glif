@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="1">
-  <advance width="552.0628445401629"/>
+  <advance width="552.06284"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
@@ -33,12 +33,4 @@
       <point x="268" y="246" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

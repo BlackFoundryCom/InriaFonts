@@ -4,12 +4,4 @@
   <outline>
     <component base="seven" xOffset="12" yOffset="-193"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

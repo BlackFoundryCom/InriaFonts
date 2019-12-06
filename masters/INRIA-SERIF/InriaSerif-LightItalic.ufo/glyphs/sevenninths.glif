@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sevenninths" format="1">
-  <advance width="651.536822482974"/>
+  <advance width="651.53682"/>
   <outline>
     <component base="seven.numerator"/>
     <component base="fraction" xOffset="270"/>

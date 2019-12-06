@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="questiondown" format="1">
-  <advance width="422.56497087477135"/>
+  <advance width="422.56497"/>
   <unicode hex="00BF"/>
   <outline>
     <contour>
@@ -44,12 +44,4 @@
       <point x="220" y="-148"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-      PHR0UHJvZ3JhbSAvPg==
-      </data>
-    </dict>
-  </lib>
 </glyph>

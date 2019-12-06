@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="1">
-  <advance width="271.01771928238816"/>
+  <advance width="271.01772"/>
   <unicode hex="2074"/>
   <outline>
     <component base="four.numerator" xOffset="19" yOffset="105"/>
